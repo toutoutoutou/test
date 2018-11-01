@@ -1,0 +1,27 @@
+#a {
+color:red;
+font-size:50px;
+text-align:center;
+width:100%;
+float:left;
+height:25%;
+background:url(timg2.jpg);
+}
+#b {
+background:url(timg.jpg);
+font-size:70px;
+width:30%;
+height:60%;
+color:pink;
+float:left;
+}
+#c {
+font-size:150px;
+float:left;
+height:60%;
+width:70%;
+color:black;
+text-align:center;
+background:url(timg1.jpg);
+
+}
